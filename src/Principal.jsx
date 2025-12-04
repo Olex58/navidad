@@ -11,7 +11,7 @@ function Pag0(){
    return(
      <div className="padre">
          <div className="contenido">
-              <h1>Navidad en Bolivia</h1>
+              <h1>Navidad en Bolivia mierdaaaaaaa</h1>
               <br></br>
               <p>La Navidad en Bolivia es una época llena de luz,
                 unión y espiritualidad, donde las celebraciones adquieren
