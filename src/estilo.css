@@ -1,0 +1,95 @@
+
+.padre{
+    min-height: 100vh;
+    width: 1550px;
+    background-color: rgba(240, 2, 2, 0.812);
+    display: grid;
+    grid-template-columns: 7fr 2fr;
+    grid-template-rows: 5fr 1fr;
+}
+
+.cabecera{
+    width: 1550px;
+   background-color: rgb(113, 190, 113);
+}
+.padre .contenido{
+    background-color: rgba(230, 63, 63, 0.979);
+    grid-column: 1/2;
+    grid-row: 1/2;
+    padding: 10px;
+    text-align: justify;
+}
+.padre .contenido2{
+    background-color: rgba(230, 63, 63, 0.979);
+    grid-column: 1/2;
+    grid-row: 1/2;
+    padding: 10px;
+    text-align: justify;
+    display: flex; 
+    flex-wrap:wrap;
+    justify-content: center;
+    gap:20px;
+}
+.padre .ads{
+    
+    background-color: rgba(230, 63, 63, 0.979);
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
+.padre .pie{
+    background-color: rgb(113, 190, 113);
+    grid-column: 1/3;
+    grid-row: 2/3; 
+    
+}
+
+  .card-img-limitada {
+    max-height: 600px;
+    min-height: 150px;
+    object-fit: cover;
+    width: 100%;
+    padding: 20px;
+  }
+
+
+.card-img-custom {
+   height:110px;
+   width:150px;
+  object-fit: contain;
+}
+
+  .card-img-limitada2{
+    max-height: 600px;
+    min-height: 150px;
+    object-fit: contain;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .contenido3{
+    background-color: rgba(230, 63, 63, 0.979);
+    grid-column: 1/2;
+    grid-row: 1/2;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 3fr;
+  }
+  .cont1
+  {
+    grid-column: 1/3;
+    grid-row: 1/2;
+  }
+  .cont2{
+    grid-column: 1/2;
+    grid-row: 2/3;    
+  }
+  .cont3{
+    grid-column: 2/3;
+    grid-row: 2/3;    
+  }
+  .cont4{
+    grid-column: 3/4;
+    grid-row: 1/3;    
+  }
+  
