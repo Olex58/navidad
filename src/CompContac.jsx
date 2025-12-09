@@ -16,7 +16,7 @@ function CompContac()
         </div>
         <div className="cont4">
             <h2>Ubicación</h2>
-            <img src="./ubicacion.jpg"></img>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Hcr9dzcNz35UVvg3n6Busw_rsVQpPRndkA&s"></img>
         </div>
         </div>
     );

@@ -3,7 +3,7 @@ function CompGast()
      return(
         <div className="contenido2">
            <div class="card" style= {{width: "18rem"}}>
-                <img src="./picana.jpg" class="card-img-top " alt="..."/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Picana_pace%C3%B1a.jpg" class="card-img-top " alt="..."/>
                 <div class="card-body">
                     <h5 class="card-title">Picana</h5>
                     <p class="card-text">Esta es una comida tradicional, heredada de la época colonial y posee un sabor dulce y salado; 
@@ -13,7 +13,7 @@ function CompGast()
                 </div>
             </div>
             <div class="card" style= {{width: "18rem"}}>
-                <img src="./lechon.jpg" class="card-img-top " alt="..."/>
+                <img src="https://i.pinimg.com/736x/12/88/7e/12887ee868043295e808ea5f995adb73.jpg" class="card-img-top " alt="..."/>
                 <div class="card-body">
                     <h5 class="card-title">Lechon navideño</h5>
                     <p class="card-text">
@@ -23,7 +23,7 @@ function CompGast()
                 </div>
             </div>
             <div class="card" style= {{width: "18rem"}}>
-                <img src="./bunuelos.jpg" class="card-img-top" alt="..."/>
+                <img src="https://www.cocina-boliviana.com/base/stock/Recipe/los-bunuelos/los-bunuelos_web.jpg.webp" class="card-img-top" alt="..."/>
                 <div class="card-body">
                     <h5 class="card-title">Buñuelos</h5>
                     <p class="card-text">Los buñuelos son una de las delicias más apetecidas en Bolivia y su origen es incierto, pues en distintos países de Latinoamérica 
@@ -33,7 +33,7 @@ function CompGast()
                 </div>
             </div>
             <div class="card" style= {{width: "18rem"}}>
-                <img src="./pavo.jpg" class="card-img-top" alt="..."/>
+                <img src="https://content-cocina.lecturas.com/medio/2018/07/19/paso-a-paso-para-hacer-pavo-asado-con-manzanas-y-orejones-resultado-final_26269966_600x600.jpg" class="card-img-top" alt="..."/>
                 <div class="card-body">
                     <h5 class="card-title">Pavo relleno</h5>
                     <p class="card-text">El pavo relleno no es un plato local, pero se ha vuelto popular en Bolivia en 
@@ -43,7 +43,7 @@ function CompGast()
                 </div>
             </div>
             <div class="card" style= {{width: "18rem"}}>
-                <img src="./paneton.jpg" class="card-img-top" alt="..."/>
+                <img src="https://www.bakels.pe/wp-content/uploads/sites/31/2019/01/PANETON_MG_9080-1.jpg" class="card-img-top" alt="..."/>
                 <div class="card-body">
                     <h5 class="card-title">Panetón</h5>
                     <p class="card-text">El panetón se encuentra en todos los hogares bolivianos desde finales de noviembre. 

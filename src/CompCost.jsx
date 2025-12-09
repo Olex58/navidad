@@ -3,7 +3,7 @@ function CompCost()
     return(
         <div className="contenido">
             <div class="card text-bg-dark">
-                <img src="./public/pesebre.jpg" class="card-img card-img-limitada" alt="..."/>
+                <img src="https://www.forumlibertas.com/wp-content/uploads/2023/12/pesebre-2023.jpg" class="card-img card-img-limitada" alt="..."/>
                 <div class="card-img-overlay">
                     <h5 class="card-title">Armado del Pesebre Navideño</h5>
                     <p class="card-text">Las familias disponen minuciosamente las figuras de la Sagrada Familia, 
@@ -14,7 +14,7 @@ function CompCost()
                 </div>
             </div>
             <div class="card text-bg-dark">
-                <img src="./public/misaDeGallo.jpg" class="card-img card-img-limitada" alt="..."/>
+                <img src="https://objetos-xlk.estaticos-marca.com/uploads/2025/03/21/17349695945943.jpeg" class="card-img card-img-limitada" alt="..."/>
                 <div class="card-img-overlay">
                     <h5 class="card-title">Misa de Gallo</h5>
                     <p class="card-text">La celebración principal ocurre la noche del 24 de diciembre (Nochebuena). La mayoría de las familias 
@@ -25,7 +25,7 @@ function CompCost()
             </div>
 
             <div class="card text-bg-dark">
-                <img src="./public/challa.jpg" class="card-img" alt="..."/>
+                <img src="https://jornada.com.bo/wp-content/uploads/2019/01/d%C3%ADa-de-Reyes-Magos.jpg" class="card-img" alt="..."/>
                     <div class="card-img-overlay">
                         <h5 class="card-title">Ch'alla del niño Jesús</h5>
                         <p class="card-text">Uno de los momentos más significativos ocurre tras la medianoche: el "ch'alla" o bendición del Niño Jesús. 

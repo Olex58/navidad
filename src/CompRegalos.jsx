@@ -17,14 +17,14 @@ function CompRegalos()
                 </div>
                 </div>
                 <div class="carousel-item">
-                <img src="./perfume.jpg" class="d-block w-100 card-img-limitada2" alt="..."/>
+                <img src="https://e01-phantom-expansion.uecdn.es/87d7ae7fe19a27d851e4a43efec8a28e/resize/828/f/webp/assets/multimedia/imagenes/2024/09/24/17271708789498.jpg" class="d-block w-100 card-img-limitada2" alt="..."/>
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Perfumes</h5>
                     <p>Bastante requeridos para grandes acontecimientos. Disponible tanto para varones y mujeres.</p>
                 </div>
                 </div>
                 <div class="carousel-item">
-                <img src="./kindle.jpg" class="d-block w-100 card-img-limitada2" alt="..."/>
+                <img src="https://www.internetmatters.org/wp-content/uploads/2016/02/amazon-kindle.webp" class="d-block w-100 card-img-limitada2" alt="..."/>
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Kindle</h5>
                     <p>Uno de los aparatos estrella de Amazon. Para grandes lectores </p>
